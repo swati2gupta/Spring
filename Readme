@@ -1,0 +1,7 @@
+What is Spring IOC?
+
+Instead of creating objects in the class where we need to use them, we create them in a different place(beans.xml) and use them whenver 
+we need them.
+
+The lifecycle of spring beans is managed by spring container which takes away the burden from the programmer to create and 
+worry about the lifecycle of objects.
